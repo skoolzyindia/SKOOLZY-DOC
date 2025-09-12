@@ -1,1 +1,56 @@
-[]
+{
+  "subjects": {
+    "Entrepreneurship": "Nisha Mam",
+    "Business organization and management": "Varkha Mam",
+    "Financial Accounting": "Suman Mam",
+    "Business Environment": "Chaaru Mam",
+    "Fundamental of Management": "Ruchika Mam",
+    "MDC": "",
+    "English": "Sarita Mam",
+    "Human Value and ethics": "Nisha Mam"
+  },
+  "timetable": {
+    "Monday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ],
+    "Tuesday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ],
+    "Wednesday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ],
+    "Thursday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ],
+    "Friday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ],
+    "Saturday": [
+      { "lecture": 1, "subject": "", "teacher": "" },
+      { "lecture": 2, "subject": "", "teacher": "" },
+      { "lecture": 3, "subject": "", "teacher": "" },
+      { "lecture": 4, "subject": "", "teacher": "" },
+      { "lecture": 5, "subject": "", "teacher": "" }
+    ]
+  }
+}
