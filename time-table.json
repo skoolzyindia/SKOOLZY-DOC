@@ -40,8 +40,8 @@
     "Tuesday": [
       {
         "lecture": 1,
-        "subject": "Business organization and management",
-        "teacher": "Varkha Mam"
+        "subject": "",
+        "teacher": ""
       },
       {
         "lecture": 2,
@@ -94,8 +94,8 @@
     "Thursday": [
       {
         "lecture": 1,
-        "subject": "Business organization and management",
-        "teacher": "Varkha Mam"
+        "subject": "",
+        "teacher": ""
       },
       {
         "lecture": 2,
@@ -148,8 +148,8 @@
     "Saturday": [
       {
         "lecture": 1,
-        "subject": "Business organization and management",
-        "teacher": "Varkha Mam"
+        "subject": "",
+        "teacher": ""
       },
       {
         "lecture": 2,
