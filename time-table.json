@@ -1,1 +1,39 @@
-{}
+{
+  "Monday": {
+    "1": "Business Law",
+    "2": "Statistics",
+    "3": "H.R.M",
+    "4": "MDC",
+    "5": "English"
+  },
+  "Tuesday": {
+    "1": "Business Law",
+    "2": "Statistics",
+    "3": "H.R.M",
+    "5": "English"
+  },
+  "Friday": {
+    "1": "Cost Accounting",
+    "2": "Business Law",
+    "3": "E.V.S",
+    "4": "MDC",
+    "5": "E-Banking"
+  },
+  "Saturday": {
+    "1": "Cost Accounting",
+    "2": "Business Law",
+    "3": "Cost Accounting"
+  },
+  "Wednesday": {
+    "1": "Cost Accounting",
+    "2": "Statistics",
+    "4": "MDC",
+    "5": "E-Banking"
+  },
+  "Thursday": {
+    "1": "Cost Accounting",
+    "2": "Statistics",
+    "3": "E.V.S",
+    "5": "E-Banking"
+  }
+}
