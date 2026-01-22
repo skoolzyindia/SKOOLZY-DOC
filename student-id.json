@@ -1,7 +1,16 @@
-{
+[
+  {
     "Name": "Mukul Sharma",
-    "Class": "Bachelor of Commerce",
+    "Class": "B.Com",
     "Father_name": "Nanak Sharma",
     "Mobile_number": "8307124799",
-    "Code": "9050",
-}
+    "Code": "9050"
+  },
+  {
+    "Name": "Rahul Verma",
+    "Class": "B.Sc",
+    "Father_name": "Mahesh Verma",
+    "Mobile_number": "9999999999",
+    "Code": "1234"
+  }
+]
