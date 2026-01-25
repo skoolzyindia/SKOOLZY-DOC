@@ -1,16 +1,4 @@
 {
   "subject": "Statistics",
-  "units": [
-    {
-      "unit_title": "Tamil naadu",
-      "topics": [
-        "Nisa ",
-        "Nisa"
-      ]
-    },
-    {
-      "unit_title": "Raju",
-      "topics": []
-    }
-  ]
+  "units": []
 }
