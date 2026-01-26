@@ -1,4 +1,9 @@
 {
   "subject": "BUSINESS LAW",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Test unit ",
+      "topics": []
+    }
+  ]
 }
