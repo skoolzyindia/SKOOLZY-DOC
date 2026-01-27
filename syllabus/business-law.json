@@ -3,7 +3,9 @@
   "units": [
     {
       "unit_title": "Test unit ",
-      "topics": []
+      "topics": [
+        "Hello"
+      ]
     }
   ]
 }
