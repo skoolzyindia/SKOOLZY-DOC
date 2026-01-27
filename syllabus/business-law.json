@@ -1,13 +1,4 @@
 {
   "subject": "BUSINESS LAW",
-  "units": [
-    {
-      "unit_title": "Example unit ",
-      "topics": [
-        "Topic 1",
-        "Topic 2",
-        "Topic 3"
-      ]
-    }
-  ]
+  "units": []
 }
