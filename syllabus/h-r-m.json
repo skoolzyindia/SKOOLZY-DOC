@@ -1,4 +1,54 @@
 {
   "subject": "HRM",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Human Resource Management",
+      "topics": [
+        "Introduction of Human Resource Management",
+        "Meaning of Human Resource Management",
+        "Concepts of HRM",
+        "Evolution of HRM",
+        "Importance of HRM",
+        "Meaning of Human Resource Planning",
+        "Objectives of Human Resource Planning",
+        "Importance of Human Resource Planning"
+      ]
+    },
+    {
+      "unit_title": "Job Analysis, Recruitment and Selection",
+      "topics": [
+        "Job Analysis",
+        "Meaning of Job Analysis",
+        "Process of Job Analysis",
+        "Recruitment",
+        "Meaning of Recruitment",
+        "Sources of Recruitment",
+        "Importance of Recruitment",
+        "Selection",
+        "Meaning of Selection",
+        "Selection Process"
+      ]
+    },
+    {
+      "unit_title": "Human Resource Training and Development",
+      "topics": [
+        "Meaning of Training",
+        "Training Process",
+        "Methods of Manpower Training",
+        "Meaning of Development",
+        "Difference b/w Training Development"
+      ]
+    },
+    {
+      "unit_title": "Compensation Management",
+      "topics": [
+        "Meaning of Compensation Mang.",
+        "Concept of Wages and Salary",
+        "Factors affecting development of sound this management",
+        "Types of Wages",
+        "Wage Rate System",
+        "Group Incentive Plans"
+      ]
+    }
+  ]
 }
