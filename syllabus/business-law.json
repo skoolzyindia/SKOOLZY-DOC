@@ -2,11 +2,72 @@
   "subject": "BUSINESS LAW",
   "units": [
     {
-      "unit_title": "Unit 1 : helpl",
+      "unit_title": "Indian Contract Act, 1872",
       "topics": [
-        "Sujio",
-        "Sujoy S",
-        "Jsuheks"
+        "Introduction of Indian Contract Act, 1872",
+        "Nature of Contract",
+        "Essentials of Valid Contract",
+        "Void Contract",
+        "Valid Contract",
+        "Voidable Contract",
+        "Consent",
+        "Consideration and its impact on Contract",
+        "Agreements in Restraint of Trade",
+        "Performance of Contract",
+        "Breach of Contract",
+        "Revocation and Termination of Contract",
+        "Agency Contracts",
+        "Bailment Contracts",
+        "Contract of Indemnity",
+        "Contract of Guarantee",
+        "Pledge"
+      ]
+    },
+    {
+      "unit_title": "Sale of Goods Act, 1930",
+      "topics": [
+        "Introduction of Sale of Goods Act, 1930",
+        "Nature of Sale",
+        "Conditions and Warranties",
+        "Performance of Contract of Sale",
+        "Rights of Unpaid Seller"
+      ]
+    },
+    {
+      "unit_title": "Indian Partnership Act, 1932 & LLP Act, 2008",
+      "topics": [
+        "Indian Partnership Act, 1932",
+        "Nature of Partnership",
+        "Rights of Partners",
+        "Duties of Partners",
+        "Reconstitution of Firm",
+        "Registration of Firm",
+        "Dissolution of Firm",
+        "Limited Liability Partnership (LLP) Act, 2008",
+        "Formation of LLP",
+        "Incorporation of LLP",
+        "Partners and their Relations",
+        "Financial Disclosures",
+        "Conversion into LLP",
+        "Foreign LLP",
+        "Winding Up and Dissolution"
+      ]
+    },
+    {
+      "unit_title": "Competition Act, 2002 & Consumer Protection Act, 2019",
+      "topics": [
+        "Competition Act, 2002",
+        "Objectives of Competition Act",
+        "Basic Concepts",
+        "Consumer",
+        "Goods and Services",
+        "Prohibition of Anti-Competitive Agreements",
+        "Prohibition of Abuse of Dominant Position",
+        "Consumer Protection Act, 2019",
+        "Important Definitions",
+        "Consumer Disputes Redressal Commission",
+        "Measures to Prevent Unfair Trade Practices",
+        "Offences and Penalties"
       ]
     }
   ]
