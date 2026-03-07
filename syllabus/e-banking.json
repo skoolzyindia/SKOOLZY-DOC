@@ -1,4 +1,73 @@
 {
   "subject": "E-Banking",
-  "units": []
+  "units": [
+    {
+      "unit_title": "E-Banking",
+      "topics": [
+        "Introduction of E-Banking",
+        "Meaning of E-Banking",
+        "Definition of E-Banking",
+        "Features of E-Banking",
+        "Use of Information Technology in Banking Company",
+        "E-Banking Channels",
+        "Automatic Teller Machine (ATM)",
+        "Internet Banking",
+        "Tele Banking",
+        "Mobile Banking",
+        "IFSC Number"
+      ]
+    },
+    {
+      "unit_title": "ATM",
+      "topics": [
+        "Meaning of ATM",
+        "Characters / Characteristics of ATM",
+        "Features of ATM",
+        "Functions of ATM",
+        "Services Available from ATM",
+        "Cash Deposit",
+        "Cash Withdrawal",
+        "Loan Enquiry",
+        "Last Few Transactions",
+        "Balance Enquiry",
+        "Fund Transfer",
+        "Ticket Booking",
+        "Payments through ATM",
+        "ATM Card",
+        "PIN Number"
+      ]
+    },
+    {
+      "unit_title": "Internet Banking",
+      "topics": [
+        "Introduction of Internet Banking",
+        "World Wide Web (WWW)",
+        "Net Banking Account Opening",
+        "Username and Password",
+        "Secrecy of Maintaining One Time Password (OTP)",
+        "Net Banking Services",
+        "Fund Transfer",
+        "Make Payment"
+      ]
+    },
+    {
+      "unit_title": "NEFT / RTGS / IT Act",
+      "topics": [
+        "NEFT (National Electronic Fund Transfer)",
+        "Introduction of NEFT",
+        "Meaning of NEFT",
+        "Functions of NEFT",
+        "Services of NEFT",
+        "RTGS (Real Time Gross Settlement)",
+        "Introduction of RTGS",
+        "Meaning of RTGS",
+        "Functions of RTGS",
+        "Service Infrastructure Requirement of RTGS",
+        "RTGS Transactions",
+        "IT Act",
+        "Legal Status of Electronic Records",
+        "Cyber Crime and Law"
+      ]
+    }
+  ]
 }
