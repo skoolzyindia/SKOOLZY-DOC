@@ -1,4 +1,21 @@
 {
   "subject": "MDC",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Yoga",
+      "topics": []
+    },
+    {
+      "unit_title": "Development of Yoga ",
+      "topics": []
+    },
+    {
+      "unit_title": "Stress Management",
+      "topics": []
+    },
+    {
+      "unit_title": "Stress Response System",
+      "topics": []
+    }
+  ]
 }
