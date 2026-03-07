@@ -1,4 +1,77 @@
 {
   "subject": "EVS",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Basic Concepts of Environment",
+      "topics": [
+        "Introduction to Environment",
+        "· Definition and significance of environment",
+        "· Habitat and Ecological Niche",
+        "· Spheres of the Earth",
+        "· Biosphere",
+        "· Atmosphere",
+        "· Lithosphere",
+        "· Hydrosphere",
+        "· Factors Affecting Environment",
+        "· Abiotic Factors: Light, Temperature, Humidity, Topography",
+        "· Biotic Factors: Microorganisms, Animals, Plants, and Humans",
+        "· Sources of Energy",
+        "· Renewable sources",
+        "· Non-renewable sources"
+      ]
+    },
+    {
+      "unit_title": "Ecosystem and Biogeochemical Cycles",
+      "topics": [
+        "Ecosystem",
+        "· Definition and types of ecosystem",
+        "· Functions of an ecosystem",
+        "· Energy Flow in Ecosystem",
+        "· Food chains",
+        "· Food webs",
+        "· Trophic structure",
+        "· Concept of productivity",
+        "· Biogeochemical Cycles",
+        "· Hydrological cycle (Water cycle)",
+        "· Gaseous cycles (e.g., Carbon, Nitrogen)",
+        "· Sedimentary cycles (e.g., Phosphorus, Sulphur)",
+        "· Biological Invasion",
+        "· Concept and impact on environment"
+      ]
+    },
+    {
+      "unit_title": "Population Ecology",
+      "topics": [
+        "Population Concepts",
+        "· Definition of population",
+        "· Population density",
+        "· Population Dynamics",
+        "· Natality (Birth rate)",
+        "· Mortality (Death rate)",
+        "· Carrying capacity",
+        "· Growth forms (Growth curves)",
+        "· Human Population",
+        "· National and international concerns",
+        "· Indian efforts to control the growing population",
+        "· Sustainable Development"
+      ]
+    },
+    {
+      "unit_title": "Environmental Pollution and Management",
+      "topics": [
+        "Environmental Pollution",
+        "· Air pollution",
+        "· Water pollution",
+        "· Soil pollution",
+        "· Noise pollution",
+        "· Plastic pollution",
+        "· Marine pollution",
+        "· Waste Management",
+        "· Solid waste management",
+        "· Global Environmental Issues",
+        "· Ozone depletion",
+        "· Global warming and climate change"
+      ]
+    }
+  ]
 }
