@@ -1,4 +1,49 @@
 {
   "subject": "English",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Sounds in English Language",
+      "topics": [
+        "· Phonetics and Transcription",
+        "· Introduction to Phonetic Symbols (IPA)",
+        "· Understanding pronunciation through a dictionary (Oxford Advanced Learner’s Dictionary)",
+        "· Transcribing one and two syllable words",
+        "· (For Blind Students)",
+        "· Story development from a given general topic"
+      ]
+    },
+    {
+      "unit_title": "Developing Fluency in Speaking Skills",
+      "topics": [
+        "· Speech Making",
+        "· Expository Speech (Informative/Demonstrative)",
+        "· Argumentative Speech (Persuasive/Debate)",
+        "· Interactive Communication",
+        "· Dialogues (Conversation practice)",
+        "· Role Plays",
+        "· Group Discussions"
+      ]
+    },
+    {
+      "unit_title": "Proper use of Punctuation and Capitalization",
+      "topics": [
+        "· Punctuation Marks",
+        "· Use of Full Stop (.), Comma (,), Question Mark (?), Exclamation Mark (!)",
+        "· Use of Inverted Commas (\" \"), Apostrophe ('), Colon (:), Semicolon (;)",
+        "· Capitalization Rules",
+        "· Rules for using capital letters (Beginning of sentence, Proper nouns, etc.)"
+      ]
+    },
+    {
+      "unit_title": "Introduction to Tenses",
+      "topics": [
+        "· Concept of Tense",
+        "· Definition and importance of Tenses",
+        "· Types of Tenses",
+        "· Present Tense (Indefinite, Continuous, Perfect, Perfect Continuous)",
+        "· Past Tense (Indefinite, Continuous, Perfect, Perfect Continuous)",
+        "· Future Tense (Indefinite, Continuous, Perfect, Perfect Continuous)"
+      ]
+    }
+  ]
 }
