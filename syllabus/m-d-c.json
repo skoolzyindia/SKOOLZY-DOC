@@ -2,20 +2,52 @@
   "subject": "MDC",
   "units": [
     {
-      "unit_title": "Yoga",
-      "topics": []
+      "unit_title": "Introduction to Yoga",
+      "topics": [
+        "Meaning of Yoga",
+        "Definition of Yoga",
+        "Importance of Yoga",
+        "Origin and history of Yoga in 6 periods",
+        "Yogic diet and its meaning",
+        "Importance of Yogic diet",
+        "Principles of Yogic diet"
+      ]
     },
     {
-      "unit_title": "Development of Yoga ",
-      "topics": []
+      "unit_title": "Ashtanga Yoga and Asanas",
+      "topics": [
+        "Meaning of Ashtanga Yoga",
+        "Importance of Ashtanga Yoga",
+        "Eight limbs of Ashtanga Yoga",
+        "Spine position asanas",
+        "Prone position asanas",
+        "Sitting asanas",
+        "Standing asanas"
+      ]
     },
     {
-      "unit_title": "Stress Management",
-      "topics": []
+      "unit_title": "Yoga and Holistic Development",
+      "topics": [
+        "Meaning of Ramayanas",
+        "Its fine examples",
+        "Meaning of holistic health",
+        "Role of Yoga in holistic development",
+        "Yoga and its role in addressing societal health challenges",
+        "Government initiatives promoting Yoga in society"
+      ]
     },
     {
-      "unit_title": "Stress Response System",
-      "topics": []
+      "unit_title": "Stress and Stress Management",
+      "topics": [
+        "Concept of stress",
+        "Causes of stress",
+        "Effects of stress",
+        "Non-communicable diseases due to stress",
+        "Stress prevention and good health",
+        "Meaning of stress management",
+        "Relaxation techniques for stress management",
+        "Coping strategies for stress management"
+      ]
     }
   ]
 }
