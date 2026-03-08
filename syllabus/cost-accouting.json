@@ -1,4 +1,77 @@
 {
   "subject": "Cost Accounting",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Cost Accounting",
+      "topics": [
+        "Meaning of Cost Accounting",
+        "Features of Cost Accounting",
+        "Scope of Cost Accounting",
+        "Techniques of Cost Accounting",
+        "Methods of Cost Accounting",
+        "Objectives of Cost Accounting",
+        "Importance of Cost Accounting",
+        "Limitations of Costing and Cost Accountancy",
+        "Difference and Similarities of Cost Accounting with Financial Accounting System",
+        "Types of Cost",
+        "Components of Cost",
+        "Material",
+        "Labour",
+        "Overheads"
+      ]
+    },
+    {
+      "unit_title": "Material Cost Control",
+      "topics": [
+        "Meaning of Material Control",
+        "Objectives of Material Control",
+        "Material Purchase Procedure",
+        "Fixation of Inventory Levels",
+        "Reorder Level",
+        "Minimum Level",
+        "Maximum Level",
+        "Danger Level",
+        "EOQ Analysis",
+        "Labour Cost Control",
+        "Importance of Labour Cost Control",
+        "Methods of Time Keeping and Time Booking",
+        "Treatment and Control of Labour Turnover",
+        "Idle Time",
+        "Overtime",
+        "System of Wage Payments",
+        "Incentive Wage Plans (Individual Plans)",
+        "Halsey Premium Plan",
+        "Halsey-Weir Plan",
+        "Rowan’s Plan",
+        "Taylor’s Differential Piece Rate System",
+        "Merrick’s Multiple Piece Rate System"
+      ]
+    },
+    {
+      "unit_title": "Overheads",
+      "topics": [
+        "Meaning of Overheads",
+        "Types of Overheads",
+        "Collection of Overheads",
+        "Classification of Overheads",
+        "Allocation of Overheads",
+        "Apportionment of Overheads",
+        "Absorption of Overheads"
+      ]
+    },
+    {
+      "unit_title": "Cost Sheet and Cost Statements",
+      "topics": [
+        "Meaning of Cost Sheet",
+        "Objectives of Cost Sheet",
+        "Proforma of Cost Sheet",
+        "Types of Cost Sheet",
+        "Preparation of Cost Sheet",
+        "Reconciliation of Cost and Financial Accounts",
+        "Meaning",
+        "Objectives",
+        "Procedure"
+      ]
+    }
+  ]
 }
