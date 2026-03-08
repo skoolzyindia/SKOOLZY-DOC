@@ -1,4 +1,106 @@
 {
   "subject": "Statistics",
-  "units": []
+  "units": [
+    {
+      "unit_title": "Basic Mathematics of Finance",
+      "topics": [
+        "Simple Interest",
+        "Compound Interest",
+        "Rates of Interest",
+        "Nominal Rate",
+        "Effective Rate",
+        "Continuous Rate",
+        "Inter-relationship of rates",
+        "Compounding of a sum using different types of rates",
+        "Discounting of a sum using different types of rates",
+        "Annuities",
+        "Types of Annuities",
+        "Present Value of an Annuity",
+        "Amount of an Annuity",
+        "Continuous Compounding (case of continuous compounding)"
+      ]
+    },
+    {
+      "unit_title": "Statistical Data and its Presentation",
+      "topics": [
+        "Introduction of Statistics",
+        "Origin of Statistics",
+        "Development of Statistics",
+        "Definition of Statistics",
+        "Scope of Statistics",
+        "Uses of Statistics",
+        "Limitations of Statistics",
+        "Statistical Data",
+        "Types of Measurement Scales",
+        "Nominal Scale",
+        "Ordinal Scale",
+        "Interval Scale",
+        "Ratio Level Measurement",
+        "Collection of Data",
+        "Classification of Data",
+        "Tabulation of Data",
+        "Types of Data",
+        "Primary Data",
+        "Secondary Data",
+        "Presentation of Data",
+        "Diagrammatic Presentation of Data",
+        "Graphical Presentation of Data",
+        "Diagrams and Graphs",
+        "Bar Diagrams",
+        "Circular Diagrams (Pie Chart)",
+        "Histogram",
+        "Frequency Polygon",
+        "Ogives"
+      ]
+    },
+    {
+      "unit_title": "Uni-variate Analysis",
+      "topics": [
+        "Measures of Central Tendency",
+        "Arithmetic Mean",
+        "Geometric Mean",
+        "Median",
+        "Mode",
+        "Properties of Central Tendency",
+        "Applications of Central Tendency",
+        "Partition Values",
+        "Quartiles",
+        "Deciles",
+        "Percentiles",
+        "Measures of Variation",
+        "Absolute Measures",
+        "Relative Measures",
+        "Dispersion",
+        "Range",
+        "Quartile Deviation",
+        "Variance",
+        "Standard Deviation",
+        "Calculation of Variance and Standard Deviation",
+        "Properties of Variance and Standard Deviation"
+      ]
+    },
+    {
+      "unit_title": "Bi-variate Analysis",
+      "topics": [
+        "Simple Linear Correlation Analysis",
+        "Meaning of Correlation",
+        "Measurement of Correlation",
+        "Methods",
+        "Karl Pearson’s Coefficient of Correlation",
+        "Spearman’s Rank Correlation",
+        "Other Concepts",
+        "Probable Error",
+        "Coefficient of Determination",
+        "Meaning",
+        "Calculation",
+        "Simple Linear Regression Analysis",
+        "Regression Equations",
+        "Estimation",
+        "Relationship",
+        "Relationship between Correlation and Regression Coefficients",
+        "Error",
+        "Standard Error of Estimate (Only Meaning)"
+      ]
+    }
+  ]
 }
